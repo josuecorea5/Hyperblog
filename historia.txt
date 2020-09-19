@@ -6,3 +6,5 @@ Mañana nos enfocamos en su cambio de mentalidad
 Con los dos grandes cursos de primero.
 
 Estoy probando el comando git rm cached
+
+Probando GIT RM HEAD PARA PRUEBA
