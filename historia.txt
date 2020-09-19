@@ -2,3 +2,5 @@ Hola a todos aquí tambien estamos practicando
 sobre el curso de Git y GitHub con Platzi.
 
 Es muy emocionante estar en Platzi sus cursos son muy buenos.
+
+Hoy hablaremos de su vida.
