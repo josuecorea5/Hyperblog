@@ -4,3 +4,5 @@ sobre el curso de Git y GitHub con Platzi.
 Mañana nos enfocamos en su cambio de mentalidad
 
 Con los dos grandes cursos de primero.
+
+Estoy probando el comando git rm cached
