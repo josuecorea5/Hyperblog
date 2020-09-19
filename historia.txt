@@ -1,0 +1,2 @@
+Hola a todos aquí tambien estamos practicando
+sobre el curso de Git y GitHub con Platzi.
