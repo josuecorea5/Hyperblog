@@ -12,4 +12,6 @@ Probando GIT RM HEAD PARA PRUEBA
 
 Estoy emocionado por contribuir a este proyecto de Hyperblog
 
+Master Prueba 1
+
 Aportando a este proyecto
