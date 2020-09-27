@@ -11,5 +11,5 @@ Un blog increíble para el curso de Git y GitHub de Platzi 💚.
 - Trucos muy locos del profesor.
 - El curso tiene un poco de humor xD.
 - Uno de los mejores cursos de Git y GitHub
-
-Cómo un amigable recordatorio esto no es un **Readme.md en serio** Diseñado como ejemplo para el curso.
+- Con ejemplos en Windows, Linux y Mac
+  Cómo un amigable recordatorio esto no es un **Readme.md en serio** Diseñado como ejemplo para el curso.
